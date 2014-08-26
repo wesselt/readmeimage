@@ -1,0 +1,5 @@
+Trying to show an image from the same repository.
+
+image:images/goofy.jpg[]
+
+image:https://github.com/wesseltroost/readmeimage/images/goofy.jpg[]
